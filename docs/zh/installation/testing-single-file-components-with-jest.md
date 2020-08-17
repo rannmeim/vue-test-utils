@@ -12,7 +12,7 @@ Jest 是一个由 Facebook 开发的测试运行器，致力于提供一个“be
 
 > 另一种方案，如果你在使用 Vue CLI 构建你的工程也可以使用 [cli-plugin-unit-jest](https://cli.vuejs.org/core-plugins/unit-jest.html#injected-commands) 插件来运行 Jest 测试。
 >
-> 跳到[在 Jest 中处理单文件组件](#在 Jest 中处理单文件组件)并遵循其指示以处理你的 Vue 单文件组件。
+> 跳到[在 Jest 中处理单文件组件](#在-jest-中处理单文件组件)并遵循其指示以处理你的 Vue 单文件组件。
 >
 > 如果你在使用 Babel 进行转译 (这是创建新工程的默认配置)，你也需要在项目中的 `package.json` 配置 Jest 的 JavaScript 转换，参考[为 Jest 配置 Babel](#为-jest-配置-babel)，不过这样你应该跳过该章节其余的部分。
 
